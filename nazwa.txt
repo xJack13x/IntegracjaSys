@@ -1,0 +1,3 @@
+Asus;15'';1366x768;antyrefleksyjna;Intel Celeron N4000;2;2.6 GHz;4 GB;500 GB;HDD;Intel HD Graphics 520;DDR4;Windows 10 Home;brak;;false;
+Lenovo;15'';1366x768;antyrefleksyjna;Intel Celeron N4000;2;2.6 GHz;4 GB;500 GB;HDD;Intel HD Graphics 520;DDR4;Windows 10 Home;brak;;false;
+;;;;;;;;;;;;;;;false;
