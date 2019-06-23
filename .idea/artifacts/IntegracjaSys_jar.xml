@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IntegracjaSys:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntegracjaSys_jar</output-path>
+    <root id="archive" name="IntegracjaSys.jar">
+      <element id="module-output" name="IntegracjaSys" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/mysql-connector-java-8.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/dom-2.3.0-jaxb-1.0.6 (2).jar" path-in-jar="/" />
+      <element id="library" level="project" name="commons-io-2.6-javadoc" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/hamcrest-all-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/guava-20.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jaxb-api-2.3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
